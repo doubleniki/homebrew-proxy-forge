@@ -1,0 +1,1 @@
+# homebrew-ShadowsocksX-NG-Enhanced
