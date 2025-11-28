@@ -1,1 +1,1 @@
-# homebrew-ShadowsocksX-NG-Enhanced
+# homebrew-proxy-forge
